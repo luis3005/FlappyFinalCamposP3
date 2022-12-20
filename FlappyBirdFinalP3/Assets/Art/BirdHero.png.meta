@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d176948d3708ab941bff3d9d48d5d78c
+guid: ffbdfcb2aab288c4aa13668b23ddaca0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -178,8 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92215330b07ae054d85da821d122372f
-      internalID: -621568110
+      spriteID: f9207194c8864664aa39c3ff45354fa9
+      internalID: -621678927
       vertices: []
       indices: 
       edges: []
@@ -199,8 +199,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39309c590444acb46a09a91218022eaf
-      internalID: 1921390216
+      spriteID: f1d83ad5c82378a429471a38f4877645
+      internalID: -961861950
       vertices: []
       indices: 
       edges: []
@@ -220,8 +220,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8fab2771b436924b96f260ad38e12b6
-      internalID: 70692861
+      spriteID: c28143b4f18235a4db567cdbd43a9644
+      internalID: 2034316799
       vertices: []
       indices: 
       edges: []
@@ -237,9 +237,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BirdHero_2: 70692861
-      BirdHero_1: 1921390216
-      BirdHero_0: -621568110
+      BirdHero_2: 2034316799
+      BirdHero_1: -961861950
+      BirdHero_0: -621678927
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
